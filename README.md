@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=laughing-nerd&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 **Few things about me**
-- 🔭 I am learning **Nestjs**
+- 🔭 I am learning **Go lang**
 
 - ❤️ I love **Web sraping**
 
@@ -26,7 +26,7 @@
 <h3 align="center">Languages and Tools I am familiar with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=appwrite,astro,bootstrap,css,docker,express,figma,firebase,git,github,githubactions,html,js,linux,mongodb,mysql,nextjs,nestjs,nginx,nodejs,prisma,postgres,react,supabase,sqlite,tailwind,tauri,typescript,vscode,vite" />
+    <img src="https://skillicons.dev/icons?i=appwrite,astro,bootstrap,css,docker,express,figma,firebase,git,github,githubactions,html,js,linux,mongodb,mysql,nextjs,nestjs,nginx,nodejs,prisma,postgres,react,supabase,sqlite,tailwind,tauri,typescript,vscode,vite,go,bun" />
   </a>
 </p>
 <br />
