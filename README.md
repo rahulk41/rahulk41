@@ -33,7 +33,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <div style="display:flex; justify-content:center; align-items:center">
-<img src = "https://github-readme-stats.vercel.app/api?username=hellboy41785&show_icons=true&locale=en&theme=dark" alt = "rahulk41-stats" />
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=hellboy41785&theme=dark" alt = "rahulk41-streak" />
+<img src = "https://github-readme-stats.vercel.app/api?username=rahulk41&show_icons=true&locale=en&theme=dark" alt = "rahulk41-stats" />
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=rahulk41&theme=dark" alt = "rahulk41-streak" />
 </div>
 
